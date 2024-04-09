@@ -21,7 +21,7 @@ Instacart stakeholders are most interested in a variety of customers in their da
 ```
 ____
 
-## Project Deliverables and Final Analysis Critera.
+# Project Deliverables and Final Analysis Critera.
 
 ```
 ● Project folder follows industry standards in terms of structure and naming conventions.
@@ -49,5 +49,4 @@ ____
 
 ___
 
- Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief
- have been fabricated for the purpose of this Project.
+ Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated by CareerFoundry for the purpose of this Project.
