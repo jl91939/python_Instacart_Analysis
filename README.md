@@ -21,7 +21,7 @@ Instacart stakeholders are most interested in a variety of customers in their da
 ```
 ____
 
-# Project Deliverables and Final Analysis Critera.
+## Project Deliverables and Final Analysis Critera.
 
 ```
 ● Project folder follows industry standards in terms of structure and naming conventions.
