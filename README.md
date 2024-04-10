@@ -49,4 +49,4 @@ ____
 
 ___
 
- Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated by CareerFoundry for the purpose of this Project.
+ NOTE: Instacart is a real company that’s made their data available online. However, the contents of this data and project brief have been fabricated by CareerFoundry for the purpose of this Project.
